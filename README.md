@@ -2,5 +2,5 @@
 Os seguintes arquivos foram criados para fazer uma testnet de bitcoin
 
 Observação: eu usei os seguintes links para o teste.
-https://testnet.bitcoinexplorer.org/
-https://testnet-faucet.com/btc-testnet/
+Para ver sua carteira testnet: https://testnet.bitcoinexplorer.org/
+Para adicionar uma moeda de teste: https://testnet-faucet.com/btc-testnet/
